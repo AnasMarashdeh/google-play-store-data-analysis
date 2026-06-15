@@ -33,3 +33,7 @@ This project analyzes the Google Play Store dataset to uncover insights about ap
 ## Author
 
 Anas Marashdeh
+
+## Sample Visualizations
+
+![Top 10 Categories by Total Rating](images/rating_per_category.png)
