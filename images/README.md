@@ -1,1 +1,5 @@
-This folder contains project screenshots.
+## Sample Visualizations
+
+![Heatmap](images/heatmap.png)
+
+![Ratings](images/ratings.png)
