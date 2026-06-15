@@ -30,10 +30,16 @@ This project analyzes the Google Play Store dataset to uncover insights about ap
 ├── googleplaystore.csv
 └── README.md
 
-## Author
-
-Anas Marashdeh
-
 ## Sample Visualizations
 
 ![Top 10 Categories by Total Rating](images/rating_per_category.png)
+
+![App Types](images/type.png)
+
+![Rating Distribution Per Type](images/rating_per_type.png)
+
+![Distribution of App Ratings](images/rating_dist.png)
+
+## Author
+
+Anas Marashdeh
