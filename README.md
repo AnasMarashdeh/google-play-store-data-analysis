@@ -24,12 +24,6 @@ This project analyzes the Google Play Store dataset to uncover insights about ap
 - Correlation between numerical features
 - User engagement trends
 
-## Repository Structure
-
-├── Data_Analysis_task_Anas_Marashdeh.ipynb
-├── googleplaystore.csv
-└── README.md
-
 ## Sample Visualizations
 
 ![Top 10 Categories by Total Rating](images/rating_per_category.png)
